@@ -1,0 +1,21 @@
+.logo{
+	font-size: 100px;
+}
+
+.mainbg{
+	background-image: url("img/mainbg.png");	
+}
+
+.input{
+	width: 25%;
+	
+}
+
+.inputs{
+	width: 60%;
+	
+}
+.mainpanels{
+	
+	height: 450px;
+}
